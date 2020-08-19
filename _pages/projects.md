@@ -1,11 +1,8 @@
-layout 	permalink 	title 	author_profile 	header
-posts
-	
-/projects/
-	
-Projects
-	
-true
-	
-image
-/images/San-francisco.jpg
+---
+layout: posts
+permalink: /projects/
+title: "Projects"
+author_profile: true
+header:
+  image: "/images/San-francisco.jpg"
+---
