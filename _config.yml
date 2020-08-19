@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Chiara Werner-Tutschku"
-  avatar           : "/images/Linkedin.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Linkedin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "San Francisco"
   email            :
