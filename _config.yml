@@ -10,6 +10,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "Chiara Werner-Tutschku"
+subtitle                 : "Global Business Development with Data | Emerging Tech | Sustainability | Energy | Education"
 title_separator          : "-"
 name                     : "Chiara Werner-Tutschku"
 description              : "Data Science Portfolio"
@@ -104,7 +105,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "chiarawt" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "chiarawt"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
