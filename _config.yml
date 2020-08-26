@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "Chiara Werner-Tutschku"
-subtitle                 : "Global Business Development with Data | Emerging Tech | Sustainability | Energy | Education"
+subtitle                 : "Global Business Development with Data"
 title_separator          : "-"
 name                     : "Chiara Werner-Tutschku"
 description              : "Data Science Portfolio"
