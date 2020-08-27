@@ -3,12 +3,9 @@ title: "Customer Segmentation using Machine Learning for Mealkit Company"
 date: 2020-06-02
 tags: [Customer Segmentation, Machine Learning]
 header:
-  overlay_image: "/images/customer_segmentation.jpg"
+  overlay_image: "/images/customer_segmentation.webp"
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 excerpt: "Building on Machine Learning algorithmn 5 customer segments were identified."
 mathjax: "true"
 ---
