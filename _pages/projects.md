@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: splash
 permalink: /projects/
 title: "Projects"
 author_profile: true
