@@ -10,7 +10,6 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "Chiara Werner-Tutschku"
-subtitle                 : "test"
 title_separator          : "-"
 name                     : "Chiara Werner-Tutschku"
 description              : "Global Business Development with Data"
