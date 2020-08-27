@@ -66,4 +66,7 @@ $$z=x+y$$
 You can also put it inline $$z=x+y$$
 
 Test for PDF display:
-    <p>Open a PDF file <a href="{{ site.url }}{{ site.baseurl }}/images/Resume_Werner-Tutschku Chiara_1 pager.pdf"/a>.</p>
+<iframe src=""{{ site.url }}{{ site.baseurl }}/images/Resume_Werner-Tutschku Chiara_1 pager.pdf"" height="200" width="300">
+</iframe>
+
+<p>Open a PDF file <a href="{{ site.url }}{{ site.baseurl }}/images/Resume_Werner-Tutschku Chiara_1 pager.pdf"/a>.</p>
