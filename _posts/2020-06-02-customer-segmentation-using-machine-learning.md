@@ -64,7 +64,3 @@ Here's some math:
 $$z=x+y$$
 
 You can also put it inline $$z=x+y$$
-
-Test for PDF display:
-<iframe src="{{ site.url }}{{ site.baseurl }}/images/Resume_Werner-Tutschku-Chiara_1pager.pdf" height="2000" width="1280">
-</iframe>
